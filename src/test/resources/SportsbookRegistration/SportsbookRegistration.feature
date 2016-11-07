@@ -5,5 +5,5 @@ Feature: Customer registration on .com sportsbook
  Scenario: Customer registartion on desktop sportsbook
    Given registration link is available on sportsbook desktop page
    Then I clicked on registartion link
-   And entered all required fields and clicked on create account button
+   And entered all required field and clicked on create account button
    And registration is successful
