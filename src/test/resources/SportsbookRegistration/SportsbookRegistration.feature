@@ -7,3 +7,4 @@ Feature: Customer registration on .com sportsbook
    Then I clicked on registartion link
    And entered all required field and clicked on create account button
    And registration is successful
+   And user is logged in
