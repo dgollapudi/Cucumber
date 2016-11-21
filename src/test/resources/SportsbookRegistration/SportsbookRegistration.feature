@@ -8,5 +8,5 @@ Feature: Customer registration on .com sportsbook
    And entered all required field and clicked on create account button
    And registration is successful
    And user is logged in
-   And user can make a deposit
+   
   
